@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is **Vincent Wambua**, an MSc Molecular Biology and Bioinformatics researcher interested in **computational biology, molecular parasitology, applied virology, and in silico drug discovery**.
+My name is **Vincent Wambua Nzoka**, an MSc Molecular Biology and Bioinformatics researcher interested in **computational biology, molecular parasitology, applied virology, and in silico drug discovery**.
 
 - 🔭 I’m currently working on computational approaches to antiviral drug discovery and drug repurposing
 - 🧬 My research interests include HIV, SARS-CoV, Ebola, Marburg, Dengue, Zika, and Chikungunya viruses
